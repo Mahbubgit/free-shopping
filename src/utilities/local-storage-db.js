@@ -7,8 +7,6 @@ const addToLocalStorage = id =>{
     if(storedCart){
         shoppingCart = JSON.parse(storedCart);
     }
-
-    console.log(shoppingCart.length);
     const totalCartItem = shoppingCart.length;
     
     if(totalCartItem >= 4){
@@ -54,6 +52,7 @@ const removeFromLocalStorage = id =>{
 // delete all products
 const deleteShoppingCart = () =>{
     localStorage.removeItem('shopping-cart');
+    getStoredCart();
 }
 
 export {
