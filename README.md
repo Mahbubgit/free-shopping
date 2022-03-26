@@ -1,15 +1,12 @@
 # Free Shopping
 
-## Choose your BABY'S TOY from our site with free of cost.
+## Choose your BABY'S TOY from our site with free of cost. To visit our site, please click the below link.
 
-[Free Shopping](https://github.com/facebook/create-react-app)
+[Free Shopping](https://free-baby-toy-shopping.netlify.app/)
 
-In the project directory, you can run:
+Description:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### It's a free baby toy shopping site.
+### It's a single page website of baby toy.
+### You can select 4 items from the displayed list. Then choose one randomly by clicking the button "Choose one for me".
+### Then you can reset all the items you selected by clicking the button "Reset".
