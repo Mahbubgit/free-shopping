@@ -1,0 +1,18 @@
+.cart-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    margin: 10px;
+}
+.cart-item img{
+    width: 5%;
+    margin-right: 5px;
+}
+
+.cart-item h4{
+    color: blue;
+    font-weight: 700;
+    margin-right: 20px;
+}
